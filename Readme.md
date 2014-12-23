@@ -32,6 +32,6 @@ paths via a requirejs config.
 
 > Prints the time data in tabular form
 
-*Requires a global install `npm install -g time-to-generate-trees`*
+*Requires a global install `npm install -g time-to-generate-tree`*
 
 `time-to-generate-tree <directory>`
