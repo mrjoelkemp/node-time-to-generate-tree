@@ -1,6 +1,6 @@
 {
   "name": "time-to-generate-tree",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get the time it takes to generate the dependency tree for a file",
   "main": "index.js",
   "directories": {
